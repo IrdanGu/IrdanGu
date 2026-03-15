@@ -1,5 +1,5 @@
 <h1 align="center">I'm Irdan Guntara</h1>
-<h3 align="center">AI engineer engeenering from Indonesia 🇮🇩</h3>
+<h3 align="center">AI engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
 Building interactive web experiences • Exploring AI • Learning every day
