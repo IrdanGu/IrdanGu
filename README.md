@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irdan Guntara</h1>
-<h3 align="center">Frontend Developer from Indonesia 🇮🇩</h3>
+<h1 align="center">I'm Irdan Guntara</h1>
+<h3 align="center">AI engineer engeenering from Indonesia 🇮🇩</h3>
 
 <p align="center">
 Building interactive web experiences • Exploring AI • Learning every day
@@ -20,11 +20,8 @@ Building interactive web experiences • Exploring AI • Learning every day
 ## 🚀 About Me
 
 - 🔭 Currently working on **Website Sekolah SD**
-- 🌱 Learning **React & Laravel**
-- 👯 Open to collaborate on **Website Himpunan Mahasiswa**
-- 🤝 Looking to improve my **Front-End Development Skills**
+- 🌱 Learning **machine learning and web dev**
 - 📫 Reach me at **irdanguntara582@gmail.com**
-- ⚡ Fun fact: I believe I’m funny (still under testing 😄)
 
 ---
 
