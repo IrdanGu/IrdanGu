@@ -1,5 +1,5 @@
 <h1 align="center">I'm Irdan Guntara</h1>
-<h3 align="center">Information Systems student focused on career development in the field of Machine Learning Engineering. Experienced in building AI-based solutions ranging from Computer Vision to Natural Language Processing, with a main stack of Python, TensorFlow/Keras, and FastAPI.</h3>
+<p align="center">Information Systems student focused on career development in the field of Machine Learning Engineering. Experienced in building AI-based solutions ranging from Computer Vision to Natural Language Processing, with a main stack of Python, TensorFlow/Keras, and FastAPI.</p>
 
 <p align="center">
 Web Developer • Exploring AI • Machine Learning
@@ -7,12 +7,6 @@ Web Developer • Exploring AI • Machine Learning
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irdangu&label=Profile%20views&color=0e75b6&style=flat" alt="irdangu" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=irdangu&theme=algolia&no-frame=true&row=1" alt="irdangu" />
-  </a>
 </p>
 
 ---
