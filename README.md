@@ -1,5 +1,5 @@
 <h1 align="center">I'm Irdan Guntara</h1>
-<h3 align="center">AI engineer from Indonesia 🇮🇩</h3>
+<h3 align="center">Information Systems student focused on career development in the field of Machine Learning Engineering. Experienced in building AI-based solutions ranging from Computer Vision to Natural Language Processing, with a main stack of Python, TensorFlow/Keras, and FastAPI.</h3>
 
 <p align="center">
 Web Developer • Exploring AI • Machine Learning
