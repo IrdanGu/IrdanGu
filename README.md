@@ -13,7 +13,7 @@ Web Developer • Exploring AI • Machine Learning
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[PilahNusa AI](https://pilah-nusa-ai.vercel.app/)** 
+- 🔭 Currently working on thesis 
 - 🌱 Learning **machine learning and web dev**
 - 📫 Reach me at **irdanguntara582@gmail.com**
 
